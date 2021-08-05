@@ -7,6 +7,7 @@
 - Use target name instead of target number for logging metrics (#588)
 - Optimizer can be initialized by passing string, class or function (#602)
 - Add support for multiple outputs in Baseline model (#603)
+- Dropping support for Python 3.6 and starting support for Python 3.9 (#639)
 
 ### Fixed
 
